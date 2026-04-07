@@ -42,7 +42,7 @@ const Hero = () => {
             loop 
             playsInline
             poster="/hero-poster.jpg"
-            className="w-full h-full object-cover opacity-60 pointer-events-none scale-105 group-hover/hero:scale-100 transition-transform duration-[3s] ease-out"
+            className="w-full h-full object-cover opacity-75 pointer-events-none scale-105 group-hover/hero:scale-100 transition-transform duration-[3s] ease-out"
           >
             <source src="/newfon.webm" type="video/webm" />
           </video>
